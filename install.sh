@@ -12,7 +12,7 @@ pip install requests rich
 cat > $PREFIX/bin/bcf79 << 'EOF'
 #!/bin/bash
 
-URL="https://raw.githubusercontent.com/YOUR-USERNAME/bcf79/main/bcf79.py"
+URL="https://raw.githubusercontent.com/imran6363/bcf79/main/bcf79.py"
 
 curl -s -o ~/bcf79.py $URL
 python ~/bcf79.py
