@@ -24,6 +24,6 @@ Imran
 ```bash
 pkg update && pkg upgrade
 pkg install git -y
-git clone https://github.com/YOUR-USERNAME/bcf79.git
+git clone https://github.com/imran6363/bcf79.git
 cd bcf79
 bash install.sh
